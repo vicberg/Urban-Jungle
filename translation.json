@@ -58,9 +58,9 @@
 	"INIT": "Init",
 	"DODGE": "Dodge",
 	"RALLY": "Rally",
-	"CLOSE": "Close (1m),
-	"NEAR": "Near (3m)",
-	"SHORT": "Short (10m)",
-	"MEDIUM": "Medium (30m)",
-	"LONG": "Long (100m)"
+	"CLOSE": "Close",
+	"NEAR": "Near",
+	"SHORT": "Short",
+	"MEDIUM": "Medium",
+	"LONG": "Long"
 }
